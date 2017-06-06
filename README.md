@@ -27,4 +27,5 @@ Created stefany_test namespace
 ----- END ----- The new namespace can be request in the API
 ```
 
-NOTE: Remember does not create many namespaces in QA.
+NOTE: Remember do not create too many namespaces in QA.
+The next update is the script to delete the namespace and the files related to it 
