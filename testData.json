@@ -1,0 +1,5 @@
+{
+    "api_url" : "https://api.bodhi-qa.io/",
+    "system_username": "olial",
+    "system_password": "12345"
+}
