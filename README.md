@@ -8,8 +8,8 @@ CREATE A NEW NAMESPACE QA ENVIRONMENT
 3. Execute 'npm install' to install node modules
 4. Execute 'node createNamespaceScriptQA.js <namespace_name> <prganization_name>'
   
-  <namespace_name> : The name of the namespace you want to create
-  <organization_name> : The organization name. Example KMS
+  * <namespace_name> : The name of the namespace you want to create
+  * <organization_name> : The organization name. Example KMS
   
  
 SOME POSSIBLE RESULTS
