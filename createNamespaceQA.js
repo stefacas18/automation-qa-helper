@@ -31,7 +31,7 @@ class CreateNamspaceQA {
                     if(err){
                         if (err.status == 409) {
                             console.log("namespace",namespace,"already exist");
-                            resolve("The Namespace was exist");
+                            resolve("The Namespace already exist");
                         } else {
                             console.error(err);
                             reject(Error("Failed try to create a namespace"));
